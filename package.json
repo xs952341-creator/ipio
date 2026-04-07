@@ -1,0 +1,7 @@
+{
+  "name": "apple-style-scroll",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
